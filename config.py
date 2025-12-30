@@ -33,8 +33,8 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/lll-DEADLY-VENOM-lll/AARU_MUSIC")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "SPY")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/about_deadly_venom")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NOBITA_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GalXyNet")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Besties_Music_Group")
 
 # --- EXTRA PLUGINS CONFIG (Naye Features) ---
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -72,7 +72,7 @@ userstats = {}
 clean = {}
 
 # --- IMAGES & UI ---
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/7fbabc4b791cebc67a013-1521e1b3ec530f5fe1.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/SMDBOTZ-12-30")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/df9f00159effce45fa2e2-f1c40978b063a5462a.jpg")
 PLAYLIST_IMG_URL = "https://graph.org/file/75d4a43a76f4272d117d1-a3b25f8c9777d7de2a.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/4a7c28726502e24ea0fe0.jpg"
